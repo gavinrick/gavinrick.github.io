@@ -6,7 +6,7 @@ navbar:
       href: index.html
     - text: "CLT"
       href: CLT_2.html
-      text: "About Me"
+    - text: "About Me"
       href: aboutme.html
-      text: "Project One"
+    - text: "Project One"
       href: PresentationFile1.html
